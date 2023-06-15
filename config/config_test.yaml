@@ -1,0 +1,7 @@
+server:
+  port: "8080"
+  api-key: "abc123"
+redis:
+  address: "localhost:6379"
+ads:
+  url: "https://www.example.com/sm_ads.json"
